@@ -1,6 +1,6 @@
-# 🚀 Jentic Hackathon 2025
+# 🚀 Jentic Summer Hackathon 2025
 
-Welcome to the Jentic Hackathon! Join us in building the future of AI agents and workflow automation. Whether you have 2 hours or a full weekend, there's a place for you to contribute meaningfully to our open-source ecosystem.
+Welcome to the Jentic Summer Hackathon! Join us in building the future of AI agents and workflow automation. Whether you have 2 hours or a full weekend, there's a place for you to contribute meaningfully to our open-source ecosystem.
 
 ## 🎯 What We're Building
 
