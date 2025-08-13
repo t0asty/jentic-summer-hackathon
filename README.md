@@ -187,7 +187,7 @@ Build a browser extension for automatic API discovery.
 ### Quick Start
 1. **Fork this repository**
 2. **Choose your tier and project**
-3. **Join our Discord** for real-time support: [Discord Link]
+3. **Join our Discord** for real-time support: [Jentic Community Discord](https://discord.gg/TdbWXZsUSm)
 4. **Review project guidelines** in `/docs/contributing.md`
 5. **Start building!**
 
