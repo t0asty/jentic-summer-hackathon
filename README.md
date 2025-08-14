@@ -1,5 +1,19 @@
 # 🚀 Jentic Summer Hackathon 2025
 
+<div align="center">
+  <p align="center">
+    <a href="https://x.com/JenticAI">
+      <img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/company/jentic">
+      <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://discord.gg/TdbWXZsUSm">
+      <img src="https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    </a>
+  </p>
+</div>
+
 Welcome to the Jentic Summer Hackathon! Join us in building the future of AI agents and workflow automation. Whether you have 2 hours or a full weekend, there's a place for you to contribute meaningfully to our open-source ecosystem.
 
 ## 🎯 What We're Building
