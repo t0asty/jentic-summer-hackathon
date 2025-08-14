@@ -16,14 +16,18 @@
 
 Welcome to the Jentic Summer Hackathon! Join us in building the future of AI agents and workflow automation. Whether you have 2 hours or a full weekend, there's a place for you to contribute meaningfully to our open-source ecosystem.
 
+---
+
 ## 🎯 What We're Building
 
 Jentic is building the infrastructure for AI agents to work with real-world APIs and workflows. Our hackathon focuses on expanding this ecosystem through:
 
-- **Standard Agent Framework**: Easy-to-deploy AI agents that work out of the box
-- **Arazzo Engine**: Workflow execution engine that connects APIs seamlessly  
-- **API Directory**: Comprehensive collection of working API specifications
-- **Integration Tools**: Bridges between different AI frameworks and real-world systems
+* **Standard Agent Framework**: Easy-to-deploy AI agents that work out of the box
+* **Arazzo Engine**: Workflow execution engine that connects APIs seamlessly
+* **API Directory**: Comprehensive collection of working API specifications
+* **Integration Tools**: Bridges between different AI frameworks and real-world systems
+
+---
 
 ## 🏆 Participation Tiers
 
@@ -178,18 +182,49 @@ Build a browser extension for automatic API discovery.
 **Purpose**: Add functionality beyond pure engine capabilities  
 **Dependencies**: LOW - designed for external frameworks
 
+---
+
 ## 🎁 Rewards & Recognition
 
 ### Point-Based System
-- **1 Point**: Simple prompt creation, basic API submission
-- **3 Points**: Chrome extension, quality assurance tools
-- **5 Points**: Advanced integrations, reasoning model implementation
-- **10 Points**: Novel research contributions, complex system implementations
 
-### Prizes
-- **Digital**: 3-month subscriptions to AI coding tools (Cursor, GitHub Copilot, etc.)
-- **Experience**: Office tours, coffee with founders, mentorship opportunities
-- **Recognition**: Featured contributions, community spotlight
+Earn points for contributions **and** for helping spread the word.
+Points stack across categories — the more you build *and* share, the higher your score.
+
+* **1 Point**: Simple prompt creation, basic API submission
+* **3 Points**: Chrome extension, quality assurance tools
+* **5 Points**: Advanced integrations, reasoning model implementation
+* **10 Points**: Novel research contributions, complex system implementations
+
+---
+
+### 📢 Social Impact & Visibility Category
+
+Because great work deserves to be seen — and shared.
+
+* **+2 Points** — Post about the hackathon or your project on **LinkedIn** or **X** tagging [Jentic](https://www.linkedin.com/company/jentic) or [@JenticAI](https://x.com/JenticAI)
+* **+1 Point** — For every **25 likes/reactions** your post gets (capped at +5 points per post)
+* **+3 Points** — Most creative post (judged by the Jentic team — bonus if it includes memes, gifs, or short videos of your project)
+* **+5 Points** — Best project showcase post after the hackathon, with a clear demo and write-up
+
+**Pro tips:**
+
+* Show your process, not just the result — screenshots, short screen recordings, or quick dev vlogs work great.
+* Tag team members and encourage them to share too.
+* Don’t forget hashtags: `#JenticHackathon #AIagents #WorkflowAutomation #OpenSourceAI`
+
+---
+
+### 🏆 Prizes
+
+* **Social Media Champion** 🏅 — Featured blog post on the Jentic website about *you* and your project
+* **Community Builder** 🌱 — We’ll plant **100 trees in your name** through a certified reforestation program
+* **Sean’s Choice Award** 🍽 — Dinner with Jentic founder Sean
+* **Tech Glory** 💻 — Digital rewards like 3-month Cursor, GitHub Copilot, or Claude Pro subscription
+* **Experience** ☕ — Office tours, coffee with founders, mentorship opportunities
+* **Recognition** 🌟 — Featured contributions, community spotlight
+
+---
 
 ## 🚀 Getting Started
 
@@ -248,14 +283,18 @@ npm test                        # JavaScript
 
 ## 📅 Event Schedule
 
-### Event Day
-- **10:00**: Opening ceremony and project selection
-- **12:00**: Hacking begins
-- **13:00**: Lunch and networking
-- **14:00**: Midday check-in and troubleshooting
-- **17:00**: Submission deadline
-- **18:00**: Presentations and judging
-- **18:30**: Awards and closing
+## 📅 Event Schedule
+
+**Event Day**
+
+* **10:00** — Opening ceremony and project selection
+* **12:00** — Hacking begins
+* **13:00** — Lunch and networking *(📢 Social media posting moment — share your progress!)*
+* **14:00** — Midday check-in and troubleshooting
+* **15:30** — 📢 Social media posting moment — post updates, teasers, or demos to get extra points
+* **17:00** — Submission deadline
+* **18:00** — Presentations and judging
+* **18:30** — Awards and closing
 
 
 ## 📞 Contact & Questions
