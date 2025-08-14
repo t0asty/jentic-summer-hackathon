@@ -283,8 +283,6 @@ npm test                        # JavaScript
 
 ## 📅 Event Schedule
 
-## 📅 Event Schedule
-
 **Event Day**
 
 * **10:00** — Opening ceremony and project selection
