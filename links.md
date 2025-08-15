@@ -1,16 +1,27 @@
 # Canonical Links (Single Source of Truth)
 
-- **Arazzo Engine (tools repo)**: https://github.com/jentic/arazzo-engine  
+## Jentic Repositories
+- **Arazzo Engine**: https://github.com/jentic/arazzo-engine  
   - **Runner**: https://github.com/jentic/arazzo-engine/tree/main/runner  
-  - Runner examples (if present): `runner/examples/*`
+  - Runner examples: https://github.com/jentic/arazzo-engine/tree/main/runner/examples
 
 - **Standard Agent**: https://github.com/jentic/standard-agent  
-  - Examples: `examples/*` (Discord, Slack, CLI, etc.)
+  - Examples: https://github.com/jentic/standard-agent/tree/main/examples
 
 - **Jentic Public APIs**: https://github.com/jentic/jentic-public-apis  
-  - API specs: `apis/**`
-  - Examples: `examples/*`
-  - Contribution guide: `CONTRIBUTING.md` (or repo README)
+  - API specs: https://github.com/jentic/jentic-public-apis/tree/main/__data__/apis
+  - Examples: https://github.com/jentic/jentic-public-apis/tree/main/examples
+  - Contributing guide: https://github.com/jentic/jentic-public-apis/blob/main/CONTRIBUTING.md
 
+- **Jentic SDKs**: https://github.com/jentic/jentic-sdks
+  - Python SDK: https://github.com/jentic/jentic-sdks/tree/main/python
+  - MCP Plugin: https://github.com/jentic/jentic-sdks/tree/main/mcp
+
+## Documentation
 - **Docs site**: https://docs.jentic.com  
-  - Quickstarts for Runner & Standard Agent (canonical)
+- **API Search**: https://app.jentic.com
+- **Quickstart**: https://docs.jentic.com/getting-started/quickstart/
+
+## Community
+- **Discord**: https://discord.gg/TdbWXZsUSm
+- **GitHub Discussions**: https://github.com/jentic/jentic-public-apis/discussions

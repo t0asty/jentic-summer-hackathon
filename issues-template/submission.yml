@@ -1,38 +1,110 @@
 name: Project Submission
 description: Submit your hackathon contribution
-title: "[SUBMISSION] <short title>"
-labels: ["submission"]
+title: "[SUBMISSION] "
+labels: ["submission", "hackathon-2025"]
 body:
   - type: input
     id: team
     attributes:
-      label: Team or participant
-      placeholder: your name(s)
+      label: Team or Participant Name
+      description: Your name or team name
+      placeholder: "Jane Doe" or "Team Awesome"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: track
+    attributes:
+      label: Hackathon Track
+      description: Which track did you work on?
+      options:
+        - "Track 01 - Standard Agent (Discord)"
+        - "Track 02 - HAR → OpenAPI"
+        - "Track 03 - Arazzo Runner Basics"
+        - "Track 04 - Agent Comms (Slack/Email)"
+        - "Track 05 - OpenAPI Minifier"
+        - "Other/Multiple Tracks"
+    validations:
+      required: true
+
   - type: textarea
     id: summary
     attributes:
       label: What did you build?
-      description: Short description and motivation
+      description: Brief description of your contribution and why it's valuable
+      placeholder: "I built a Discord bot that automatically summarizes GitHub issues and posts them to Slack channels, solving the problem of..."
+    validations:
+      required: true
+
   - type: textarea
     id: repro
     attributes:
-      label: Repro steps
+      label: Setup & Demo Instructions
       description: Copy-paste commands to run your project
       render: bash
+      placeholder: |
+        git clone https://github.com/username/repo.git
+        cd repo
+        pip install -r requirements.txt
+        export API_KEY="your-key"
+        python main.py
+    validations:
+      required: true
+
   - type: input
     id: repo_pr
     attributes:
-      label: PR link(s)
-      placeholder: https://github.com/jentic/<repo>/pull/<id>
+      label: Main PR Link
+      description: Link to your primary pull request
+      placeholder: "https://github.com/jentic/jentic-public-apis/pull/123"
+    validations:
+      required: true
+
   - type: textarea
-    id: screenshots
+    id: additional_prs
     attributes:
-      label: Screenshots / logs
+      label: Additional PR Links (if any)
+      description: Links to other related pull requests
+      placeholder: |
+        https://github.com/jentic/standard-agent/pull/456
+        https://github.com/jentic/arazzo-engine/pull/789
+
+  - type: textarea
+    id: demo_evidence
+    attributes:
+      label: Demo Screenshots/Videos
+      description: Upload images or provide links to demonstrate your working solution
+      placeholder: "Drag and drop screenshots here, or paste links to demo videos"
+
+  - type: textarea
+    id: social_posts
+    attributes:
+      label: Social Media Posts (for bonus points!)
+      description: Links to your LinkedIn/Twitter posts about the hackathon or your project
+      placeholder: |
+        https://twitter.com/username/status/123456789
+        https://linkedin.com/posts/username-activity-123456789
+
   - type: checkboxes
     id: checks
     attributes:
-      label: Checklists
+      label: Quality Checklist
+      description: Confirm you've completed these steps
       options:
-        - label: I used the relevant checklist(s)
-        - label: I included an .env.example (if needed)
-        - label: I added brief troubleshooting notes
+        - label: "I used the relevant quality checklist for my contribution type"
+          required: true
+        - label: "I included a complete README with setup instructions"
+          required: true
+        - label: "I tested my solution in a clean environment"
+          required: true
+        - label: "I removed all hardcoded secrets and personal information"
+          required: true
+        - label: "I included troubleshooting information for common issues"
+          required: false
+
+  - type: textarea
+    id: additional_notes
+    attributes:
+      label: Additional Notes
+      description: Anything else reviewers should know (limitations, future improvements, challenges faced, etc.)
+      placeholder: "Known limitations: only works with Discord bots, not user accounts. Future improvement: add support for multiple channels."
