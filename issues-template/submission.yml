@@ -1,0 +1,38 @@
+name: Project Submission
+description: Submit your hackathon contribution
+title: "[SUBMISSION] <short title>"
+labels: ["submission"]
+body:
+  - type: input
+    id: team
+    attributes:
+      label: Team or participant
+      placeholder: your name(s)
+  - type: textarea
+    id: summary
+    attributes:
+      label: What did you build?
+      description: Short description and motivation
+  - type: textarea
+    id: repro
+    attributes:
+      label: Repro steps
+      description: Copy-paste commands to run your project
+      render: bash
+  - type: input
+    id: repo_pr
+    attributes:
+      label: PR link(s)
+      placeholder: https://github.com/jentic/<repo>/pull/<id>
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots / logs
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklists
+      options:
+        - label: I used the relevant checklist(s)
+        - label: I included an .env.example (if needed)
+        - label: I added brief troubleshooting notes
