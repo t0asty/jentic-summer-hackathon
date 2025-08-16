@@ -11,11 +11,11 @@ All hackathon submissions go to the **main summer hackathon repository** where y
 ### 1. 🍴 Fork the Hackathon Repo
 ```bash
 # If you haven't already:
-git clone https://github.com/jentic/summer-hackathon-2025.git
+git clone https://github.com/jentic/jentic-summer-hackathon.git
 cd summer-hackathon-2025
 
 # Or if you forked it:
-git clone https://github.com/YOUR-USERNAME/summer-hackathon-2025.git
+git clone https://github.com/YOUR-USERNAME/jentic-summer-hackathon.git
 cd summer-hackathon-2025
 ```
 
