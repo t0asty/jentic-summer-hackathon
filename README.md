@@ -1,4 +1,4 @@
-# 🚀 Jentic Summer Hackathon 2025
+# 🚀 Jentic x Give(a)Go Summer Hackathon 2025
 
 <div align="center">
   <p align="center">
@@ -14,298 +14,213 @@
   </p>
 </div>
 
-Welcome to the Jentic Summer Hackathon! Join us in building the future of AI agents and workflow automation. Whether you have 2 hours or a full weekend, there's a place for you to contribute meaningfully to our open-source ecosystem.
+Welcome! This repo is your **single on‑ramp** to building with Jentic during the hackathon.
+Pick a track, follow the guides, ship something real. No detours.
 
 ---
 
-## 🎯 What We're Building
-
-Jentic is building the infrastructure for AI agents to work with real-world APIs and workflows. Our hackathon focuses on expanding this ecosystem through:
-
-* **Standard Agent Framework**: Easy-to-deploy AI agents that work out of the box
-* **Arazzo Engine**: Workflow execution engine that connects APIs seamlessly
-* **API Directory**: Comprehensive collection of working API specifications
-* **Integration Tools**: Bridges between different AI frameworks and real-world systems
+## 🎯 Quick Start (5 mins)
+1. **Read** → [guides/00-install.md](./guides/00-install.md) – install basics and auth
+2. **Choose** → Pick a track below based on your time and skill level
+3. **Build** → Follow your track's README and start coding
+4. **Connect** → Join Discord `#summer-hackathon` for help: https://discord.gg/TdbWXZsUSm
 
 ---
 
-## 🏆 Participation Tiers
+## 🏃‍♂️ New to Hackathons? Start Here!
 
-Choose your adventure based on your available time and technical comfort level:
+**First time?** Try these beginner-friendly tracks:
+- 🌱 **Track 06** - Standard Agent Prompts *(1 point, 2-3 hours)*
+- 🌱 **Track 02** - HAR → OpenAPI *(3 points, 2-4 hours)*
+- 🌱 **Track 10** - Generic API Discovery *(3 points, 3-8 hours)*
 
-### 🌱 Tier 1: Entry Level (2 hours - 1 afternoon)
-*Perfect for beginners or quick contributions*
+**Have some experience?** Jump to intermediate tracks:
+- 🔧 **Track 07** - API Quality Scorecard *(5 points, 3-5 hours)*
+- 🔧 **Track 09** - OpenAPI Validation Tools *(5 points, 3-5 hours)*
 
-#### Standard Agent Prompt Creation
-Create and verify working prompts for our standard agents.
-
-**Example**: "Go grab articles from New York Times about Trump and put on Discord"
-
-**Process**:
-1. Propose a prompt idea
-2. Test it thoroughly to ensure it works
-3. Open a ticket with verification proof
-4. Submit to our prompt library
-
-**Reward**: 1 point per verified prompt  
-**Dependencies**: Uses standard agent framework and Jentic SDK
+**Want maximum points?** Tackle advanced challenges:
+- 🧠 **Track 13** - New Reasoning Models *(10 points, 6-12 hours)*
+- 🧠 **Track 15** - Agent Behavior Modification *(10 points, 8-12 hours)*
 
 ---
 
-### 🔧 Tier 2: API Development (Few hours - Full weekend)
-*Multiple approaches, minimal stack dependency*
+## 🎯 All Tracks (Choose Your Adventure)
 
-#### Option A: HAR File to OpenAPI Conversion
-Transform undocumented APIs into usable specifications.
+### 🌱 Beginner Tracks (1-3 points • 2-4 hours)
+*Perfect for first-time hackathon participants*
 
-**Target**: Websites without published APIs (e.g., property sites, restaurant platforms)
+| Track | Project | Points | Time | Difficulty |
+|-------|---------|--------|------|------------|
+| **[06](./tracks/track-06-standard-agent-prompts/)** | Standard Agent Prompts | 1 | 2-3h | 🟢 Easy |
+| **[02](./tracks/track-02-har-to-openapi/)** | HAR → OpenAPI | 3 | 2-4h | 🟡 Beginner+ |
+| **[10](./tracks/track-10-generic-api-discovery/)** | Generic API Discovery | 3 | 3-8h | 🟡 Open-ended |
 
-**Process**:
-1. Identify target websites with hidden APIs
-2. Use browser network tab to capture API calls
-3. Download HAR (HTTP Archive) files
-4. Convert to OpenAPI specifications using your preferred method:
-   - Manual transcription
-   - Custom utility scripts
-   - LLM assistance (Gemini, ChatGPT, etc.)
-   - Hybrid approaches
+### 🔧 Intermediate Tracks (3-5 points • 3-6 hours)
+*Good balance of challenge and achievability*
 
-**Deliverable**: PR to our public-apis repository  
-**Dependencies**: MINIMAL - only for final submission
+| Track | Project | Points | Time | Difficulty |
+|-------|---------|--------|------|------------|
+| **[01](./tracks/track-01-standard-agent-discord/)** | Standard Agent (Discord) | 3 | 3-6h | 🟡 Intermediate |
+| **[03](./tracks/track-03-arazzo-runner-basics/)** | Arazzo Runner Basics | 3 | 3-5h | 🟡 Intermediate |
+| **[04](./tracks/track-04-agent-comms-slack-email/)** | Agent Comms (Slack/Email) | 5 | 4-6h | 🟠 Intermediate+ |
+| **[05](./tracks/track-05-openapi-minifier/)** | OpenAPI Minifier | 5 | 3-5h | 🟠 Intermediate+ |
+| **[07](./tracks/track-07-api-quality-scorecard/)** | API Quality Scorecard | 5 | 3-5h | 🟠 Intermediate+ |
+| **[08](./tracks/track-08-chrome-extension-api-discovery/)** | Chrome Extension API Discovery | 5 | 4-6h | 🟠 Intermediate+ |
+| **[09](./tracks/track-09-openapi-validation-tools/)** | OpenAPI Validation Tools | 5 | 3-5h | 🟠 Intermediate+ |
+| **[11](./tracks/track-11-llm-powered-api-discovery/)** | LLM-Powered API Discovery | 5 | 4-6h | 🟠 Intermediate+ |
 
-#### Option B: Generic API Discovery (Open-Ended)
-*"There are websites that don't have APIs or documented APIs. We would like to have their APIs. You figure it out."*
+### ⚡ Advanced Tracks (5-8 points • 4-10 hours)
+*Weekend projects for experienced developers*
 
-**Methods**: Web scraping, reverse engineering, manual documentation, custom tooling  
-**Flexibility**: Choose your own approach  
-**Dependencies**: NONE until final submission
+| Track | Project | Points | Time | Difficulty |
+|-------|---------|--------|------|------------|
+| **[12](./tracks/track-12-graphql-arazzo-runner/)** | GraphQL Support in Arazzo | 5 | 4-8h | 🔴 Advanced |
+| **[16](./tracks/track-16-doc-to-arazzo-converter/)** | Doc-to-Arazzo Converter | 8 | 6-10h | 🔴 Advanced |
+| **[17](./tracks/track-17-jitt-front-loading/)** | JITT vs Front-loading Research | 8 | 6-10h | 🔴 Research |
+| **[18](./tracks/track-18-prompt-injection-detection/)** | Prompt Injection Detection | 8 | 6-10h | 🔴 Advanced |
+| **[19](./tracks/track-19-jentic-cli-agent/)** | Jentic CLI Agent | 8 | 6-10h | 🔴 Advanced |
+| **[20](./tracks/track-20-integration-framework/)** | Integration Framework | 8 | 6-10h | 🔴 Advanced |
 
-#### Option C: Chrome Extension Development
-Build a browser extension for automatic API discovery.
-
-**Functionality**:
-- Click button on any website
-- Auto-generate OpenAPI specification
-- Push to Jentic API directory
-
-**Inspiration**: Similar to Notion's web clipper  
-**Dependencies**: LOW - extension works independently
-
----
-
-### ⚡ Tier 3: Advanced Technical (Weekend projects)
-*Higher complexity, variable integration levels*
-
-#### OpenAPI Specification Optimization
-**Problem**: Current system loads 60,000+ line specs when only needing ~400 lines  
-**Solution**: Build tool to extract minimal required specifications  
-**Example**: Extract only "create task" functionality from 10,000-line Jira spec  
-**Dependencies**: MODERATE - optimizes Arazzo Engine
-
-#### Agent Communication Integrations
-**Goal**: Enable standard agent communication through multiple platforms  
-**Platforms**: Slack, Discord, Twilio (SMS), Email, Telegram, etc.  
-**Dependencies**: HIGH - requires standard agent and system integration
-
-#### LLM-Powered API Discovery System
-**Concept**: Use LLMs with web search to automatically find/create OpenAPI specs  
-**Challenge**: Hallucination risk management  
-**Dependencies**: LOW - can work as standalone tool
-
-#### GraphQL Support in Arazzo Runner
-**Minimum**: Implement via graphql-to-openapi conversion  
-**Advanced**: Explore native support using Arazzo extensions and integrated GraphQL client  
-**Dependencies**: MODERATE - extends Arazzo Engine capabilities
-
-#### API Agent-Readiness Scorecard & Evaluation
-**Goal**: Automated assessment of API quality for agent usage  
-**Scope**: Check completeness of descriptions, error codes, authentication info, formatting, consistency  
-**Advanced**: Score for presence of multi-level API architecture  
-**Dependencies**: LOW - standalone evaluation tool
-
----
-
-### 🧠 Tier 4: Advanced AI Features (Full weekend+)
+### 🧠 Expert Tracks (10 points • 6-12+ hours)
 *Cutting-edge AI research and implementation*
 
-#### New Reasoning Models in Standard Agent
-**Goal**: Implement advanced reasoning patterns  
-**Models**: LATS, Plan-Act, ReAct, Tree-of-Thoughts  
-**Dependencies**: HIGH - deep standard agent framework knowledge
-
-#### Local MCP Support in Standard Agent
-**Scope**: Filesystem, Playwright/Puppeteer, local APIs  
-**Benefit**: Enable agents to work with local development environments  
-**Dependencies**: HIGH - requires standard agent framework
-
-#### Agent Behavior Modification System
-**Concept**: Real-time agent reconfiguration through natural language  
-**Examples**: "Only run on weekdays", "Never respond to this person"  
-**Status**: Not available in initial standard agent version  
-**Dependencies**: HIGH - requires deep framework knowledge
-
-#### Doc-to-Arazzo Converter
-**Goal**: AI-based process to read official HTML/PDF API documentation and convert to Arazzo workflows  
-**Benefit**: Automatically generate executable workflows from human documentation  
-**Dependencies**: MODERATE - works with Arazzo format
-
-#### JITT vs Front-loading Evaluation
-**Research**: Comparative evaluation of tool calling accuracy  
-**Scope**: Front-loaded tools vs just-in-time loading from RAG systems  
-**Methodology**: Measure results as number of tools varies, potentially using τ-bench  
-**Dependencies**: LOW - standalone research project
-
-#### Prompt Injection Detection
-**Goal**: Real-time sanitization system for API responses  
-**Focus**: Performance and cost optimization  
-**Approach**: Traditional NLP techniques triaging to small language models and LLMs  
-**Dependencies**: NONE - standalone security tool
-
-#### Jentic CLI Agent
-**Concept**: CLI agent that runs like Claude, Gemini, or Qwen CLI  
-**Requirements**: Filesystem tools at minimum  
-**Inspiration**: Bring conversational AI to the command line  
-**Dependencies**: MODERATE - builds on standard agent
+| Track | Project | Points | Time | Difficulty |
+|-------|---------|--------|------|------------|
+| **[13](./tracks/track-13-reasoning-models-standard-agent/)** | New Reasoning Models | 10 | 6-12h | 🟣 Expert |
+| **[14](./tracks/track-14-local-mcp-standard-agent/)** | Local MCP Support | 10 | 6-10h | 🟣 Expert |
+| **[15](./tracks/track-15-agent-behavior-modification/)** | Agent Behavior Modification | 10 | 8-12h | 🟣 Expert |
 
 ---
 
-### 🛠️ Independent/Standalone Options
-*No Jentic stack dependency required*
+## 🏆 Scoring & Rewards
 
-#### Validation & Quality Assurance Tools
-**Purpose**: Verify OpenAPI specifications are compliant and functional  
-**Challenge**: Distinguish valid specs from nonsense  
-**Dependencies**: NONE - standalone utilities
+### 📊 Point System
+- **🌱 Beginner**: 1-3 points *(Great for learning!)*
+- **🔧 Intermediate**: 3-5 points *(Sweet spot for most)*
+- **⚡ Advanced**: 5-8 points *(Weekend challenges)*
+- **🧠 Expert**: 10 points *(Research-level work)*
 
-#### Integration Framework Development
-**Goal**: Bridge between Arazzo engine and other agent frameworks  
-**Purpose**: Add functionality beyond pure engine capabilities  
-**Dependencies**: LOW - designed for external frameworks
+### 📢 Bonus Points
+- **+2 points** — Post on LinkedIn/X tagging [@JenticAI](https://x.com/JenticAI)
+- **+1 point** — For every 25 likes/reactions (max +5 per post)
+- **+3 points** — Most creative post (memes, gifs, videos encouraged!)
+- **+5 points** — Best project showcase with demo
 
----
+### 🎁 Prizes
 
-## 🎁 Rewards & Recognition
+#### 🎖️ For All Participants
+- **🎤 Exclusive Access** — Invite-only Q&As with Sean and Michael (Jentic founders)
 
-### Point-Based System
-
-Earn points for contributions **and** for helping spread the word.
-Points stack across categories — the more you build *and* share, the higher your score.
-
-* **1 Point**: Simple prompt creation, basic API submission
-* **3 Points**: Chrome extension, quality assurance tools
-* **5 Points**: Advanced integrations, reasoning model implementation
-* **10 Points**: Novel research contributions, complex system implementations
-
----
-
-### 📢 Social Impact & Visibility Category
-
-Because great work deserves to be seen — and shared.
-
-* **+2 Points** — Post about the hackathon or your project on **LinkedIn** or **X** tagging [Jentic](https://www.linkedin.com/company/jentic) or [@JenticAI](https://x.com/JenticAI)
-* **+1 Point** — For every **25 likes/reactions** your post gets (capped at +5 points per post)
-* **+3 Points** — Most creative post (judged by the Jentic team — bonus if it includes memes, gifs, or short videos of your project)
-* **+5 Points** — Best project showcase post after the hackathon, with a clear demo and write-up
-
-**Pro tips:**
-
-* Show your process, not just the result — screenshots, short screen recordings, or quick dev vlogs work great.
-* Tag team members and encourage them to share too.
-* Don’t forget hashtags: `#JenticHackathon #AIagents #WorkflowAutomation #OpenSourceAI`
+#### 🏆 Winner Prizes
+- **🏅 Social Media Champion** — Featured blog post about you
+- **🌱 Community Builder** — 100 trees planted in your name
+- **🍽️ Sean's Choice Award** — Dinner with Jentic founder
+- **💻 Tech Glory** — 1-month Cursor/Copilot/Claude Pro
+- **☕ Experience** — Office tours, founder coffee chats
+- **🌟 Recognition** — Community spotlight features
+- **💼 Career Opportunity** — Interview invitation at Jentic
 
 ---
 
-### 🏆 Prizes
+## 🛠️ Track Recommendations
 
-* **Social Media Champion** 🏅 — Featured blog post on the Jentic website about *you* and your project
-* **Community Builder** 🌱 — We’ll plant **100 trees in your name** through a certified reforestation program
-* **Sean’s Choice Award** 🍽 — Dinner with Jentic founder Sean
-* **Tech Glory** 💻 — Digital rewards like 3-month Cursor, GitHub Copilot, or Claude Pro subscription
-* **Experience** ☕ — Office tours, coffee with founders, mentorship opportunities
-* **Recognition** 🌟 — Featured contributions, community spotlight
+### ⏰ Got 2-3 hours?
+**Start with Track 06** - Standard Agent Prompts. No coding required, just creative prompt engineering!
+
+### ⏰ Got a Saturday afternoon (4-6 hours)?
+**Try Track 07** - API Quality Scorecard. Build something immediately useful with clear success criteria.
+
+### ⏰ Got a full weekend?
+**Go for Track 13** - New Reasoning Models. Cutting-edge AI research with maximum points.
+
+### 🎯 Want guaranteed success?
+**Pick Track 02** - HAR → OpenAPI. Well-defined problem, multiple solution approaches, great documentation.
+
+### 🏅 Want to win?
+**Combine multiple tracks!** Do Track 06 (prompts) + Track 07 (scorecard) for 6 points in one weekend.
 
 ---
 
-## 🚀 Getting Started
+## 📚 Essential Resources
 
-### Prerequisites
-- **Minimum**: Git, basic programming knowledge
-- **Recommended**: Python, API experience
-- **Advanced**: AI/ML frameworks, agent development experience
+### 🚀 Getting Started
+- **[Installation Guide](./guides/00-install.md)** — Set up your environment
+- **[What is Arazzo?](./guides/01-what-is-arazzo.md)** — Understand workflows
+- **[Standard Agent Guide](./guides/02-standard-agent-quickstart.md)** — AI agent basics
+- **[Submit Your Work](./guides/06-submitting-your-pr.md)** — How to submit
 
-### Quick Start
-1. **Fork this repository**
-2. **Choose your tier and project**
-3. **Join our Discord** for real-time support: [Jentic Community Discord](https://discord.gg/TdbWXZsUSm)
-4. **Review project guidelines** in `/docs/contributing.md`
-5. **Start building!**
+### 📋 Quality Checklists
+- **[Prompt Checklist](./checklists/prompt-submission-checklist.md)** — For Track 06
+- **[API Spec Checklist](./checklists/api-spec-quality-checklist.md)** — For Tracks 02, 10, 11
+- **[Demo Checklist](./checklists/demo-readme-checklist.md)** — For all tracks
 
-### Development Setup
-```bash
-# Clone your fork
-git clone https://github.com/yourusername/jentic-hackathon.git
-cd jentic-hackathon
+### 🔗 Official Examples
+See **[links.md](./links.md)** for canonical examples in each Jentic repository.
 
-# Install dependencies (varies by project)
-pip install -r requirements.txt  # For Python projects
-npm install                      # For JavaScript projects
+---
 
-# Run tests
-python -m pytest                # Python
-npm test                        # JavaScript
-```
+## 🤝 Getting Help
 
-## 📋 Submission Guidelines
+### 💬 Real-Time Support
+- **Discord**: `#summer-hackathon` for immediate help
+- **Discord**: `#general` for project discussions
+- **Discord**: `#showcase` to share your progress
 
-### For All Tiers
-1. **Create a branch** for your contribution
-2. **Document your work** with clear README files
-3. **Include tests** where applicable
-4. **Submit a PR** with detailed description
-5. **Open a ticket** describing your contribution
+### 🆘 Stuck? Try This:
+1. **Read your track's README** thoroughly
+2. **Check the examples** in your track folder
+3. **Ask in Discord** with a screenshot + your last 3 commands
+4. **Look at similar tracks** for inspiration
 
-### Quality Standards
-- **Working code**: All submissions must be functional
-- **Documentation**: Clear setup and usage instructions
-- **Testing**: Include basic tests for complex features
-- **API specs**: Must be valid OpenAPI 3.0+ format
+### 👥 Community Guidelines
+- **Be helpful** — everyone's learning!
+- **Share progress** — screenshots and videos welcome
+- **Ask questions** — no question is too basic
+- **Celebrate others** — like and comment on their work
 
-## 🤝 Support & Community
+---
 
-### Real-Time Help
-- **Discord**: `#summer-hackathon` channel for immediate support
+## 📅 Event Timeline
 
-### Resources
-- **API Directory**: `/apis/` folder with existing specifications
-- **Examples**: `/examples/` folder with working samples
-- **Docs**: `/docs/` folder with detailed guides
-- **Templates**: `/templates/` folder with project starters
+### 🗓️ Hackathon Day
+- **10:00 AM** — Opening ceremony & track selection
+- **12:00 PM** — Hacking officially begins!
+- **1:00 PM** — Lunch break *(📸 Social media moment!)*
+- **2:00 PM** — Midday check-in & troubleshooting
+- **3:30 PM** — Progress showcase *(📸 Share your demos!)*
+- **5:00 PM** — Submission deadline
+- **6:00 PM** — Project presentations
+- **6:30 PM** — Awards ceremony & closing
 
-## 📅 Event Schedule
+---
 
-**Event Day**
+## 🎉 Ready to Build?
 
-* **10:00** — Opening ceremony and project selection
-* **12:00** — Hacking begins
-* **13:00** — Lunch and networking *(📢 Social media posting moment — share your progress!)*
-* **14:00** — Midday check-in and troubleshooting
-* **15:30** — 📢 Social media posting moment — post updates, teasers, or demos to get extra points
-* **17:00** — Submission deadline
-* **18:00** — Presentations and judging
-* **18:30** — Awards and closing
+### 🏃‍♂️ First Time Here?
+1. **Pick Track 06** (Standard Agent Prompts) — easiest entry point
+2. **Join Discord** — get connected with the community
+3. **Start small** — better to finish one track than start three
 
+### 🏗️ Experienced Builder?
+1. **Scan all tracks** — find what excites you most  
+2. **Check point values** — balance effort vs reward
+3. **Consider combinations** — multiple small tracks = big points
 
-## 📞 Contact & Questions
+### 🚀 Ready for Glory?
+1. **Go for Track 13, 14, or 15** — maximum points and impact
+2. **Document everything** — turn your work into social content
+3. **Share your journey** — build your reputation in the community
 
+**Let's build the future of AI agents together! 🤖✨**
+
+---
+
+## 📞 Questions?
 - **Event Lead**: Rod Rivera (@rodjentic in Discord)
-- **General Questions**: `#general` in Discord
-- **Technical Issues**: `#summer-hackathon` in Discord
+- **Technical Issues**: `#summer-hackathon` Discord channel
+- **General Questions**: `#general` Discord channel
 
-## 🎉 Let's Build the Future Together!
-
-Whether you're contributing a simple prompt or building the next breakthrough in AI agent reasoning, every contribution matters. Join us in making AI agents more capable, reliable, and accessible to everyone.
-
-**Ready to start? Pick your project above and let's build something amazing! 🚀**
+> 💡 **Pro tip**: The best hackathon projects solve real problems. Pick a track that excites you personally — passion leads to better results!
 
 ---
 
