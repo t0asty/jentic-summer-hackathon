@@ -14,7 +14,7 @@
   </p>
 </div>
 
-Welcome! This repo is your **single on‑ramp** to building with Jentic during the hackathon.
+Welcome! This repo is your **single on‑ramp** to building with Jentic during the Jentic x Give(a)Go summer hackathon.
 Pick a track, follow the guides, ship something real. No detours.
 
 ---
