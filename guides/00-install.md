@@ -23,7 +23,7 @@ python --version
 ## 2. Create Jentic Account & Get Agent API Key
 
 ### 🆕 Create Account
-1. Go to **[https://app.jentic.com/register](https://app.jentic.com/register)**
+1. Go to **[https://app.jentic.com/register](https://app.jentic.com/)**
 2. Sign up with your email
 3. Verify your email address (check spam folder!)
 
