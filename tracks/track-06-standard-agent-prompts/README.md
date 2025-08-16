@@ -40,13 +40,22 @@ A collection of verified, working prompts that:
 
 ### 1. Environment Setup
 ```bash
+
 # Create project directory
 mkdir standard-agent-prompts
 cd standard-agent-prompts
 
+# Clone and set up the project
+git clone git@github.com:jentic/standard-agent.git
+
 # Set up Python environment
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
+
+cd standard_agent
+
+# Install dependencies
+make install
 
 # Install dependencies
 pip install -r requirements.txt
