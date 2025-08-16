@@ -14,7 +14,7 @@
   </p>
 </div>
 
-Welcome! This repo is your **single on‑ramp** to building with Jentic during the Jentic x Give(a)Go summer hackathon.
+Welcome! This repo is your **single on‑ramp** to building with Jentic during the hackathon.
 Pick a track, follow the guides, ship something real. No detours.
 
 ---
@@ -22,10 +22,9 @@ Pick a track, follow the guides, ship something real. No detours.
 ## 🎯 Quick Start (5 mins)
 1. **⭐ Star** → Show some love for Jentic's open source repos (see below)
 2. **Read** → [guides/00-install.md](./guides/00-install.md) – install basics and auth
-3. **Create Account**  → [https://app.jentic.com/](https://app.jentic.com/)
-4. **Choose** → Pick a track below based on your time and skill level
-5. **Build** → Follow your track's README and start coding
-6. **Connect** → Join Discord `#summer-hackathon` for help: https://discord.gg/TdbWXZsUSm
+3. **Choose** → Pick a track below based on your time and skill level
+4. **Build** → Follow your track's README and start coding
+5. **Connect** → Join Discord `#summer-hackathon` for help: https://discord.gg/TdbWXZsUSm
 
 ### ⭐ Support Our Open Source Ecosystem
 **Before you start building**, help us grow the community by starring these repos:
@@ -127,7 +126,7 @@ Pick a track, follow the guides, ship something real. No detours.
 - **🧠 Expert**: 10 points *(Research-level work)*
 
 ### 📢 Bonus Points
-- **+2 points** — Post on [LinkedIn](https://www.linkedin.com/company/jentic )/ [X](https://x.com/JenticAI) tagging Jentic
+- **+2 points** — Post on LinkedIn/X tagging [@JenticAI](https://x.com/JenticAI)
 - **+1 point** — For every 25 likes/reactions (max +5 per post)
 - **+3 points** — Most creative post (memes, gifs, videos encouraged!)
 - **+5 points** — Best project showcase with demo
@@ -137,6 +136,11 @@ Pick a track, follow the guides, ship something real. No detours.
 
 #### 🎖️ For All Participants
 - **🎤 Exclusive Access** — Invite-only Q&As with Sean and Michael (Jentic founders)
+- **🏆 Participation Certificate** — Official hackathon completion certificate
+- **💳 AI Tool Credits** — Free credits for popular AI development tools
+- **📧 Community Updates** — Stay connected with future Jentic events and opportunities
+
+> 📝 **Important**: [Register here](https://docs.google.com/spreadsheets/d/1oJaRC0JtR-3l5SSh1StUz62qNDyzo3NYp0fI9bveYxs/edit?usp=sharing) to receive your certificate and AI credits! By providing your details, you consent to receive marketing communications from Jentic (you can opt out anytime).
 
 #### 🏆 Winner Prizes
 - **🏅 Social Media Champion** — Featured blog post about you
@@ -225,9 +229,10 @@ See **[links.md](./links.md)** for canonical examples in each Jentic repository.
 
 ### 🏃‍♂️ First Time Here?
 1. **⭐ Star the repos** — Support open source (1 bonus point!)
-2. **Pick Track 06** (Standard Agent Prompts) — easiest entry point
-3. **Join Discord** — get connected with the community
-4. **Start small** — better to finish one track than start three
+2. **📝 Register for certificates** — [Fill out the form](https://docs.google.com/spreadsheets/d/1oJaRC0JtR-3l5SSh1StUz62qNDyzo3NYp0fI9bveYxs/edit?usp=sharing) to get your completion certificate and AI credits
+3. **Pick Track 06** (Standard Agent Prompts) — easiest entry point
+4. **Join Discord** — get connected with the community
+5. **Start small** — better to finish one track than start three
 
 ### 🏗️ Experienced Builder?
 1. **Scan all tracks** — find what excites you most  
@@ -244,9 +249,10 @@ See **[links.md](./links.md)** for canonical examples in each Jentic repository.
 ---
 
 ## 📞 Questions?
-- **Event Lead**: Rod Rivera (@rodjentic in Discord)
+- **Event Lead**: [Rod Rivera](https://www.linkedin.com/in/rodriveraai/) (@rodjentic in Discord)
 - **Technical Issues**: `#summer-hackathon` Discord channel
 - **General Questions**: `#general` Discord channel
+- **Certificates & Credits**: Make sure you've [registered here](https://docs.google.com/spreadsheets/d/1oJaRC0JtR-3l5SSh1StUz62qNDyzo3NYp0fI9bveYxs/edit?usp=sharing)
 
 > 💡 **Pro tip**: The best hackathon projects solve real problems. Pick a track that excites you personally — passion leads to better results!
 
