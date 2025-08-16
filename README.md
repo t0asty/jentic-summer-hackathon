@@ -22,7 +22,7 @@ Pick a track, follow the guides, ship something real. No detours.
 ## 🎯 Quick Start (5 mins)
 1. **⭐ Star** → Show some love for Jentic's open source repos (see below)
 2. **Read** → [guides/00-install.md](./guides/00-install.md) – install basics and auth
-3. **Create Account**  → [https://app.jentic.com/(https://app.jentic.com/)
+3. **Create Account**  → [https://app.jentic.com/](https://app.jentic.com/)
 4. **Choose** → Pick a track below based on your time and skill level
 5. **Build** → Follow your track's README and start coding
 6. **Connect** → Join Discord `#summer-hackathon` for help: https://discord.gg/TdbWXZsUSm
