@@ -127,7 +127,7 @@ Pick a track, follow the guides, ship something real. No detours.
 - **🧠 Expert**: 10 points *(Research-level work)*
 
 ### 📢 Bonus Points
-- **+2 points** — Post on LinkedIn/X tagging [@JenticAI](https://x.com/JenticAI)
+- **+2 points** — Post on [LinkedIn](https://www.linkedin.com/company/jentic )/ [X](https://x.com/JenticAI) tagging Jentic
 - **+1 point** — For every 25 likes/reactions (max +5 per post)
 - **+3 points** — Most creative post (memes, gifs, videos encouraged!)
 - **+5 points** — Best project showcase with demo
