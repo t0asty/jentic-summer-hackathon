@@ -214,11 +214,11 @@ See **[links.md](./links.md)** for canonical examples in each Jentic repository.
 ## 📅 Event Timeline
 
 ### 🗓️ Hackathon Day
-- **10:00 AM** — Opening ceremony & track selection
-- **12:00 PM** — Hacking officially begins!
-- **1:00 PM** — Lunch break *(📸 Social media moment!)*
-- **2:00 PM** — Midday check-in & troubleshooting
-- **3:30 PM** — Progress showcase *(📸 Share your demos!)*
+- **10:45 AM** — Opening ceremony & track selection
+- **12:45 PM** — Hacking officially begins!
+- **1:45 PM** — Lunch break *(📸 Social media moment!)*
+- **2:45 PM** — Midday check-in & troubleshooting
+- **4:30 PM** — Progress showcase *(📸 Share your demos!)*
 - **5:00 PM** — Submission deadline
 - **6:00 PM** — Project presentations
 - **6:30 PM** — Awards ceremony & closing
