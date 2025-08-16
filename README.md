@@ -20,10 +20,35 @@ Pick a track, follow the guides, ship something real. No detours.
 ---
 
 ## 🎯 Quick Start (5 mins)
-1. **Read** → [guides/00-install.md](./guides/00-install.md) – install basics and auth
-2. **Choose** → Pick a track below based on your time and skill level
-3. **Build** → Follow your track's README and start coding
-4. **Connect** → Join Discord `#summer-hackathon` for help: https://discord.gg/TdbWXZsUSm
+1. **⭐ Star** → Show some love for Jentic's open source repos (see below)
+2. **Read** → [guides/00-install.md](./guides/00-install.md) – install basics and auth
+3. **Choose** → Pick a track below based on your time and skill level
+4. **Build** → Follow your track's README and start coding
+5. **Connect** → Join Discord `#summer-hackathon` for help: https://discord.gg/TdbWXZsUSm
+
+### ⭐ Support Our Open Source Ecosystem
+**Before you start building**, help us grow the community by starring these repos:
+
+<div align="center">
+  <p>
+    <a href="https://github.com/jentic/standard-agent">
+      <img src="https://img.shields.io/badge/⭐_Star-Standard_Agent-blue?style=for-the-badge" />
+    </a>
+    <a href="https://github.com/jentic/jentic-public-apis">
+      <img src="https://img.shields.io/badge/⭐_Star-Public_APIs-green?style=for-the-badge" />
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/jentic/arazzo-engine">
+      <img src="https://img.shields.io/badge/⭐_Star-Arazzo_Engine-orange?style=for-the-badge" />
+    </a>
+    <a href="https://github.com/jentic/jentic-sdks">
+      <img src="https://img.shields.io/badge/⭐_Star-Jentic_SDKs-purple?style=for-the-badge" />
+    </a>
+  </p>
+</div>
+
+> 💡 **Why star?** These repos contain the core tools you'll be building with. Starring helps other developers discover Jentic and shows your support for open source AI tooling!
 
 ---
 
@@ -105,6 +130,7 @@ Pick a track, follow the guides, ship something real. No detours.
 - **+1 point** — For every 25 likes/reactions (max +5 per post)
 - **+3 points** — Most creative post (memes, gifs, videos encouraged!)
 - **+5 points** — Best project showcase with demo
+- **+1 point** — Star all 4 Jentic repos ⭐ (easy bonus!)
 
 ### 🎁 Prizes
 
@@ -197,9 +223,10 @@ See **[links.md](./links.md)** for canonical examples in each Jentic repository.
 ## 🎉 Ready to Build?
 
 ### 🏃‍♂️ First Time Here?
-1. **Pick Track 06** (Standard Agent Prompts) — easiest entry point
-2. **Join Discord** — get connected with the community
-3. **Start small** — better to finish one track than start three
+1. **⭐ Star the repos** — Support open source (1 bonus point!)
+2. **Pick Track 06** (Standard Agent Prompts) — easiest entry point
+3. **Join Discord** — get connected with the community
+4. **Start small** — better to finish one track than start three
 
 ### 🏗️ Experienced Builder?
 1. **Scan all tracks** — find what excites you most  
