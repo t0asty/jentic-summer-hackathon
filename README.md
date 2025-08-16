@@ -18,6 +18,17 @@ Pick a track, follow the guides, ship something real. No detours.
 - **Track 07 – API Quality Scorecard** → [tracks/track-07-api-quality-scorecard/](./tracks/track-07-api-quality-scorecard/)
 - **Track 08 – Chrome Extension API Discovery** → [tracks/track-08-chrome-extension-api-discovery/](./tracks/track-08-chrome-extension-api-discovery/)
 - **Track 09 – OpenAPI Validation Tools** → [tracks/track-09-openapi-validation-tools/](./tracks/track-09-openapi-validation-tools/)
+- **Track 10 – Generic API Discovery** → [tracks/track-10-generic-api-discovery/](./tracks/track-10-generic-api-discovery/)
+- **Track 11 – LLM Powered API Discovery System** → [tracks/track-11-llm-powered-api-discovery/](./tracks/track-11-llm-powered-api-discovery/)
+- **Track 12 – GraphQL Support in Arazzo Runner** → [tracks/track-12-graphql-arazzo-runner/](./tracks/track-12-graphql-arazzo-runner/)
+- **Track 13 – New Reasoning Models in Standard Agent** → [tracks/track-13-reasoning-models-standard-agent/](./tracks/track-13-reasoning-models-standard-agent/)
+- **Track 14 – Local MCP Support in Standard Agent** → [tracks/track-14-local-mcp-standard-agent/](./tracks/track-14-local-mcp-standard-agent/)
+- **Track 15 – Agent Behavior Modification System** → [tracks/track-15-agent-behavior-modification/](./tracks/track-15-agent-behavior-modification/)
+- **Track 16 – Doc to Arazzo Converter** → [tracks/track-16-doc-to-arazzo-converter/](./tracks/track-16-doc-to-arazzo-converter/)
+- **Track 17 – JITT vs Front-Loading Evaluation** → [tracks/track-17-jitt-front-loading/](./tracks/track-17-jitt-front-loading/)
+- **Track 18 – Prompt Injection Tools** → [tracks/track-18-prompt-injection-detection/](./tracks/track-18-prompt-injection-detection/)
+- **Track 19 – OpenAPI Validation Tools** → [tracks/track-19-jentic-cli-agent/](./tracks/track-19-jentic-cli-agent/)
+- **Track 20 – OpenAPI Validation Tools** → [tracks/track-20-integration-framework/](./tracks/track-20-integration-framework/)
 
 ## Mini‑guides
 - **Installation & Setup** → [guides/00-install.md](./guides/00-install.md)
