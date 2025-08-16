@@ -1,4 +1,4 @@
-# 🚀 Jentic Summer Hackathon 2025
+# 🚀 Jentic x Give(a)Go Summer Hackathon 2025
 
 Welcome! This repo is your **single on‑ramp** to building with Jentic during the hackathon.
 Pick a track, follow the guides, ship something real. No detours.
@@ -14,6 +14,10 @@ Pick a track, follow the guides, ship something real. No detours.
 - **Track 03 – Arazzo Runner Basics** → [tracks/track-03-arazzo-runner-basics/](./tracks/track-03-arazzo-runner-basics/)
 - **Track 04 – Agent Comms (Slack/Email)** → [tracks/track-04-agent-comms-slack-email/](./tracks/track-04-agent-comms-slack-email/)
 - **Track 05 – OpenAPI Minifier** → [tracks/track-05-openapi-minifier/](./tracks/track-05-openapi-minifier/)
+- **Track 06 – Standard Agent Prompts ** → [tracks/track-06-standard-agent-prompts/](./tracks/track-06-standard-agent-prompts/)
+- **Track 07 – API Quality Scorecard** → [tracks/track-07-api-quality-scorecard/](./tracks/track-07-api-quality-scorecard/)
+- **Track 08 – Chrome Extension API Discovery** → [tracks/track-08-chrome-extension-api-discovery/](./tracks/track-08-chrome-extension-api-discovery/)
+- **Track 09 – OpenAPI Validation Tools** → [tracks/track-09-openapi-validation-tools/](./tracks/track-09-openapi-validation-tools/)
 
 ## Mini‑guides
 - **Installation & Setup** → [guides/00-install.md](./guides/00-install.md)
